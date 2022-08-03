@@ -1,4 +1,4 @@
-/* IP Intel SQL */
+-- ipintel.ip_address definition
 
 CREATE DATABASE IF NOT EXISTS `ipintel` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 
